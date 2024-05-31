@@ -44,7 +44,7 @@ All the code we develop for our projects is open source and available for non-co
 
 ### [Hardware Team](https://github.com/orgs/RoboticsClub-IIT-Indore/teams/hardware/members)
 
-### [Design Team](https://github.com/orgs/RoboticsClubIIT-Indore/teams/design/members)
+### [Design Team](https://github.com/orgs/RoboticsClub-IIT-Indore/teams/design/members)
 
 
 ## Volunteers
